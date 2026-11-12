@@ -1,4 +1,4 @@
-# DeadTrees Downloader - GeoTIFFs(COGs) por município
+# DeadTrees Downloader - GeoTIFFs(COGs) em Loop
 
 ![Flyer do projeto](assets/flyer.png)
 

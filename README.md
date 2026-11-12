@@ -1,4 +1,4 @@
-# DeadTrees Downloader - GeoTIFFs(COGs) em Loop
+# DeadTrees Downloader - GeoTIFFs(COGs) Webscrapping
 
 ![Flyer do projeto](assets/flyer.png)
 
